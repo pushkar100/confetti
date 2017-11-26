@@ -4,7 +4,7 @@ A simple jquery library that adds confetti to your web page and reacts to mouse 
 
 ## Usage
 
-Include the `canvas.confetti` script and invoke the `pageConfetti` function.
+Include the `canvas-confetti.js` script and invoke the `pageConfetti` function.
 
 ## Demo
 [Link](http://pushkardk.com/confetti/demo.html)
